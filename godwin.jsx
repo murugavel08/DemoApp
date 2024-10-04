@@ -6,4 +6,4 @@ function godwin() {
   )
 }
 
-export default godwinw
+export default godwin
